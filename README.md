@@ -41,14 +41,15 @@ To evaluate the model, run:
 
 Copy code
 python src/evaluate_model.py
-Training the Model
+
+##Training the Model
 The training script utilizes mixed precision training for faster training times and lower memory usage. The model is trained on the provided dataset and saved after training.
 
-Evaluation
+##Evaluation
 The evaluation script calculates the ROUGE score for the generated summaries compared to the reference summaries.
 
-Results
+##Results
 The results of the evaluation will be printed in the console after running the evaluation script.
 
-License
+##License
 This project is licensed under the MIT License. See the LICENSE file for more details.
