@@ -1,0 +1,10 @@
+torch>=1.9.0
+transformers>=4.21.0
+datasets>=2.5.0
+evaluate>=0.2.2
+rouge_score>=0.0.4
+absl-py>=0.15.0
+numpy>=1.19.0
+pandas>=1.1.0
+scikit-learn>=0.24.0
+tqdm>=4.62.0
